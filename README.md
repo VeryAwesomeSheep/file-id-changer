@@ -5,3 +5,5 @@ Changes file names from for ex. "1. Johny; 2. Jim; 3. Ann" -> "512. Johny; 513. 
 Starting ID number is inputted by the user.  
 Works with all file extensions.  
 Both source and destination paths need to be specified before use!
+
+![alt text](https://raw.githubusercontent.com/VeryAwesomeSheep/file-id-changer/main/image.png)
